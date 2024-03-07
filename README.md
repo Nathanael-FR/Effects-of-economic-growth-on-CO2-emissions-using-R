@@ -453,6 +453,7 @@ Countries like Lithuania and Turkey have known the exact opposite, these less de
 
 ***
 
+
 Finally, we are interested in the possible linear relationship between economic growth and CO2 emissions for Turkey. We create a multivariable linear regression model, by evaluating the multicollinearities by the Variance Inflation Factors (VIFs). We adopted a tolerance of VIF < 10 for the model.
 
 ```{r turkyie, message=FALSE, echo=FALSE, warning=FALSE}
